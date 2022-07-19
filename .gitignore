@@ -1,0 +1,5 @@
+.*
+nearcore/
+!.gitignore
+!.validatorrc
+

@@ -1,0 +1,7 @@
+# Validator configuration variables
+export NEAR_ENV=shardnet
+export ACCOUNT_ID=hatchet.shardnet.near
+export POOL_ID=baf
+export POOL_ACCOUNT_ID="${POOL_ID}.factory.shardnet.near"
+export PING_LOG=/tmp/ping.log
+
